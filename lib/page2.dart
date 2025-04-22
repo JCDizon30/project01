@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'homepage_EDDM.dart';
+import 'homepage_JCMD.dart';
 import 'page1.dart';
 
 class page2 extends StatelessWidget {
@@ -22,7 +22,7 @@ class page2 extends StatelessWidget {
               onPressed: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => HomepageEddm()),
+                  MaterialPageRoute(builder: (context) => HomepageJcmd()),
                 );
               },
               child: Text('Go to Homepage'),

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'page1.dart';
 import 'page2.dart';
 
-class HomepageEddm extends StatelessWidget {
+class HomepageJcmd extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
